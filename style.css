@@ -4,7 +4,7 @@
 
 /* ↓ A PARTIR DE ESE PUNTO PODEMOS LLAMAR TODAS LAS PROPIEDADES DE NUESTRAS CLASES Y ID´S ↓ */
 body {
-  background-color: #ffaffc;
+  background-color: #000000;
   margin: 0;
   padding: 0;
 }
@@ -12,7 +12,7 @@ body {
 h1 {
   /* font-family: 'Nunito Sans';*/
   font-family: 'Honk', system-ui;
-  font-weight: 500;
+  font-weight: 900;
   margin: 0;
   position: absolute;
   font-size: 20vh;
@@ -22,10 +22,10 @@ h1 {
 }
 
 a {
-  color: blue;
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 
 a:hover {
-  background-color: #36fcff;
+  background-color: #ff0000;
 }
